@@ -69,6 +69,7 @@ Thus, the equation of the line is:
 $$
 y = 2x
 $$
+![alt text](image.png)
 
 ---
 
@@ -102,6 +103,7 @@ Thus, the equation of the line is:
 $$
 y = -\frac{1}{2}x + \frac{5}{2}
 $$
+![alt text](image-1.png)
 ---
 
 * We have two lines $y = 2x + 3$ and $y = 3x + 2$. Find the intersection point of these lines and calculate the angle between them.
@@ -135,6 +137,7 @@ Thus, the intersection point is:
 $$
 (1, 5)
 $$
+![alt text](image-2.png)
 
 ### Angle Between the Lines:
 The slopes of the lines are $m_1 = 2$ and $m_2 = 3$. The angle $\theta$ between the lines is given by:
@@ -155,6 +158,7 @@ $$
 \theta = \arctan\left(\frac{1}{7}\right)
 $$
 ---
+![alt text](image-3.png)
 
 * Write the equation of the line passing through point $A(1, 2)$ and parallel to the vector $\mathbf{v} = [2, 3]$.
 The direction vector $\mathbf{v} = [2, 3]$ has a slope $m = \frac{3}{2}$.
@@ -186,6 +190,7 @@ Thus, the equation of the line is:
 $$
 y = \frac{3}{2}x + \frac{1}{2}
 $$
+![alt text](image-4.png)
 
 ---
 * We have the line $y = 2x + 3$. Find an example of a line perpendicular and parallel to it.
@@ -232,7 +237,7 @@ Thus, the distance is:
 $$
 \frac{3}{\sqrt{5}} \quad \text{or approximately } 1.34
 $$
-
+![alt text](image-5.png)
 ---
 * The line intersects the coordinate axes at points $A(2, 0)$ and $B(0, 3)$. Find the equation of the line.
 Using the two points $A(2, 0)$ and $B(0, 3)$, calculate the slope $m$:
@@ -258,7 +263,7 @@ Thus, the equation of the line is:
 $$
 y = -\frac{3}{2}x + 3
 $$
-
+![alt text](image-6.png)
 ---
 * Calculate the angle between the line $y = x + 3$ and the $Ox$ axis.
 The slope of the line is $m = 1$. The angle $\theta$ with the $Ox$ axis is:
@@ -538,7 +543,7 @@ Thus, the equation of the plane is:
 $$
 x - z = -2
 $$
-
+![alt text](image-7.png)
 ---
 
 ## 2. The plane passes through point $A(1, 2, 3)$ and is parallel to the plane $2x + 3y + 4z = 5$. Find the equation of the plane.
@@ -561,7 +566,7 @@ Thus, the equation of the plane is:
 $$
 2x + 3y + 4z = 20
 $$
-
+![alt text](image-8.png)
 ---
 
 ## 3. The plane passes through point $A(1, 2, 3)$ and is perpendicular to the normal vector $\mathbf{n} = [2, 3, 4]$. Find the equation of the plane.
@@ -584,6 +589,7 @@ Thus, the equation of the plane is:
 $$
 2x + 3y + 4z = 20
 $$
+![alt text](image-9.png)
 
 ---
 
@@ -616,6 +622,7 @@ $$
 $$
 
 (You can continue simplifying or rewriting as needed.)
+![alt text](image-10.png)
 
 ---
 
@@ -644,7 +651,7 @@ Simplify:
 $$
 -2x - y + z = -8
 $$
-
+![alt text](image-11.png)
 ---
 
 ## 6. Example of a plane parallel and perpendicular to $2x + 3y + 4z = 5$.
